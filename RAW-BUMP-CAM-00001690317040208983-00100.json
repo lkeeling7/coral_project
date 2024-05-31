@@ -1,0 +1,968 @@
+{
+    "file_header": {
+        "binning_mode": 0,
+        "blue_gain": 4.599999904632568,
+        "camera_id": 201918540,
+        "exposure_time": 20000.0,
+        "flash_delay": 0.009999999776482582,
+        "flash_duration": 20000.0,
+        "format": 2,
+        "gain": 10.0,
+        "horz_binning": 2,
+        "horz_offset": 548,
+        "illumination_type": 0,
+        "length": 64,
+        "pixel_format": 2,
+        "raw_image_height": 3008,
+        "raw_image_width": 3008,
+        "red_gain": 1.2999999523162842,
+        "unused1": 0,
+        "unused2": 0,
+        "unused3": 0,
+        "unused4": 0,
+        "vert_binning": 2,
+        "vert_offset": 0
+    },
+    "frame_headers": [
+        {
+            "camera_micros,": 632512129,
+            "flashtype": 2147483647,
+            "frame_number": 5071,
+            "height": 1504,
+            "position": 455,
+            "system_micros": 1690317040201660,
+            "unixtime": 1690317040,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 632740306,
+            "flashtype": 2147483647,
+            "frame_number": 5072,
+            "height": 1504,
+            "position": 458,
+            "system_micros": 1690317040430206,
+            "unixtime": 1690317040,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 632968470,
+            "flashtype": 2147483647,
+            "frame_number": 5073,
+            "height": 1504,
+            "position": 457,
+            "system_micros": 1690317040658826,
+            "unixtime": 1690317040,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 633196647,
+            "flashtype": 2147483647,
+            "frame_number": 5074,
+            "height": 1504,
+            "position": 457,
+            "system_micros": 1690317040886572,
+            "unixtime": 1690317040,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 633424812,
+            "flashtype": 2147483647,
+            "frame_number": 5075,
+            "height": 1504,
+            "position": 458,
+            "system_micros": 1690317041114232,
+            "unixtime": 1690317041,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 633652988,
+            "flashtype": 2147483647,
+            "frame_number": 5076,
+            "height": 1504,
+            "position": 457,
+            "system_micros": 1690317041342196,
+            "unixtime": 1690317041,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 633881153,
+            "flashtype": 2147483647,
+            "frame_number": 5077,
+            "height": 1504,
+            "position": 458,
+            "system_micros": 1690317041571042,
+            "unixtime": 1690317041,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 634109329,
+            "flashtype": 2147483647,
+            "frame_number": 5078,
+            "height": 1504,
+            "position": 458,
+            "system_micros": 1690317041798967,
+            "unixtime": 1690317041,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 634337494,
+            "flashtype": 2147483647,
+            "frame_number": 5079,
+            "height": 1504,
+            "position": 459,
+            "system_micros": 1690317042027060,
+            "unixtime": 1690317042,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 634565670,
+            "flashtype": 2147483647,
+            "frame_number": 5080,
+            "height": 1504,
+            "position": 460,
+            "system_micros": 1690317042256372,
+            "unixtime": 1690317042,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 634793835,
+            "flashtype": 2147483647,
+            "frame_number": 5081,
+            "height": 1504,
+            "position": 461,
+            "system_micros": 1690317042484089,
+            "unixtime": 1690317042,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 635022000,
+            "flashtype": 2147483647,
+            "frame_number": 5082,
+            "height": 1504,
+            "position": 461,
+            "system_micros": 1690317042711686,
+            "unixtime": 1690317042,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 635250165,
+            "flashtype": 2147483647,
+            "frame_number": 5083,
+            "height": 1504,
+            "position": 462,
+            "system_micros": 1690317042939835,
+            "unixtime": 1690317042,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 635478341,
+            "flashtype": 2147483647,
+            "frame_number": 5084,
+            "height": 1504,
+            "position": 463,
+            "system_micros": 1690317043168185,
+            "unixtime": 1690317043,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 635706506,
+            "flashtype": 2147483647,
+            "frame_number": 5085,
+            "height": 1504,
+            "position": 463,
+            "system_micros": 1690317043396126,
+            "unixtime": 1690317043,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 635934682,
+            "flashtype": 2147483647,
+            "frame_number": 5086,
+            "height": 1504,
+            "position": 463,
+            "system_micros": 1690317043623892,
+            "unixtime": 1690317043,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 636162847,
+            "flashtype": 2147483647,
+            "frame_number": 5087,
+            "height": 1504,
+            "position": 464,
+            "system_micros": 1690317043852430,
+            "unixtime": 1690317043,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 636391023,
+            "flashtype": 2147483647,
+            "frame_number": 5088,
+            "height": 1504,
+            "position": 465,
+            "system_micros": 1690317044081345,
+            "unixtime": 1690317044,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 636619188,
+            "flashtype": 2147483647,
+            "frame_number": 5089,
+            "height": 1504,
+            "position": 464,
+            "system_micros": 1690317044309007,
+            "unixtime": 1690317044,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 636847364,
+            "flashtype": 2147483647,
+            "frame_number": 5090,
+            "height": 1504,
+            "position": 465,
+            "system_micros": 1690317044536978,
+            "unixtime": 1690317044,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 637075540,
+            "flashtype": 2147483647,
+            "frame_number": 5091,
+            "height": 1504,
+            "position": 469,
+            "system_micros": 1690317044765459,
+            "unixtime": 1690317044,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 637303705,
+            "flashtype": 2147483647,
+            "frame_number": 5092,
+            "height": 1504,
+            "position": 467,
+            "system_micros": 1690317044993314,
+            "unixtime": 1690317044,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 637531882,
+            "flashtype": 2147483647,
+            "frame_number": 5093,
+            "height": 1504,
+            "position": 468,
+            "system_micros": 1690317045221160,
+            "unixtime": 1690317045,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 637760047,
+            "flashtype": 2147483647,
+            "frame_number": 5094,
+            "height": 1504,
+            "position": 468,
+            "system_micros": 1690317045449247,
+            "unixtime": 1690317045,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 637988223,
+            "flashtype": 2147483647,
+            "frame_number": 5095,
+            "height": 1504,
+            "position": 468,
+            "system_micros": 1690317045677873,
+            "unixtime": 1690317045,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 638216388,
+            "flashtype": 2147483647,
+            "frame_number": 5096,
+            "height": 1504,
+            "position": 469,
+            "system_micros": 1690317045906459,
+            "unixtime": 1690317045,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 638444553,
+            "flashtype": 2147483647,
+            "frame_number": 5097,
+            "height": 1504,
+            "position": 469,
+            "system_micros": 1690317046135167,
+            "unixtime": 1690317046,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 638672718,
+            "flashtype": 2147483647,
+            "frame_number": 5098,
+            "height": 1504,
+            "position": 470,
+            "system_micros": 1690317046363057,
+            "unixtime": 1690317046,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 638900894,
+            "flashtype": 2147483647,
+            "frame_number": 5099,
+            "height": 1504,
+            "position": 470,
+            "system_micros": 1690317046590202,
+            "unixtime": 1690317046,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 639129059,
+            "flashtype": 2147483647,
+            "frame_number": 5100,
+            "height": 1504,
+            "position": 471,
+            "system_micros": 1690317046818656,
+            "unixtime": 1690317046,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 639357224,
+            "flashtype": 2147483647,
+            "frame_number": 5101,
+            "height": 1504,
+            "position": 472,
+            "system_micros": 1690317047047751,
+            "unixtime": 1690317047,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 639585389,
+            "flashtype": 2147483647,
+            "frame_number": 5102,
+            "height": 1504,
+            "position": 472,
+            "system_micros": 1690317047274643,
+            "unixtime": 1690317047,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 639813565,
+            "flashtype": 2147483647,
+            "frame_number": 5103,
+            "height": 1504,
+            "position": 472,
+            "system_micros": 1690317047503105,
+            "unixtime": 1690317047,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 640041730,
+            "flashtype": 2147483647,
+            "frame_number": 5104,
+            "height": 1504,
+            "position": 473,
+            "system_micros": 1690317047732883,
+            "unixtime": 1690317047,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 640269906,
+            "flashtype": 2147483647,
+            "frame_number": 5105,
+            "height": 1504,
+            "position": 474,
+            "system_micros": 1690317047960063,
+            "unixtime": 1690317047,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 640498071,
+            "flashtype": 2147483647,
+            "frame_number": 5106,
+            "height": 1504,
+            "position": 475,
+            "system_micros": 1690317048188220,
+            "unixtime": 1690317048,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 640726236,
+            "flashtype": 2147483647,
+            "frame_number": 5107,
+            "height": 1504,
+            "position": 475,
+            "system_micros": 1690317048415740,
+            "unixtime": 1690317048,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 640954412,
+            "flashtype": 2147483647,
+            "frame_number": 5108,
+            "height": 1504,
+            "position": 476,
+            "system_micros": 1690317048644657,
+            "unixtime": 1690317048,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 641182577,
+            "flashtype": 2147483647,
+            "frame_number": 5109,
+            "height": 1504,
+            "position": 476,
+            "system_micros": 1690317048872211,
+            "unixtime": 1690317048,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 641410742,
+            "flashtype": 2147483647,
+            "frame_number": 5110,
+            "height": 1504,
+            "position": 476,
+            "system_micros": 1690317049100002,
+            "unixtime": 1690317049,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 641638907,
+            "flashtype": 2147483647,
+            "frame_number": 5111,
+            "height": 1504,
+            "position": 478,
+            "system_micros": 1690317049328224,
+            "unixtime": 1690317049,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 641867083,
+            "flashtype": 2147483647,
+            "frame_number": 5112,
+            "height": 1504,
+            "position": 478,
+            "system_micros": 1690317049556981,
+            "unixtime": 1690317049,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 642095237,
+            "flashtype": 2147483647,
+            "frame_number": 5113,
+            "height": 1504,
+            "position": 479,
+            "system_micros": 1690317049785922,
+            "unixtime": 1690317049,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 642323413,
+            "flashtype": 2147483647,
+            "frame_number": 5114,
+            "height": 1504,
+            "position": 479,
+            "system_micros": 1690317050012903,
+            "unixtime": 1690317050,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 642551578,
+            "flashtype": 2147483647,
+            "frame_number": 5115,
+            "height": 1504,
+            "position": 479,
+            "system_micros": 1690317050240970,
+            "unixtime": 1690317050,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 642779743,
+            "flashtype": 2147483647,
+            "frame_number": 5116,
+            "height": 1504,
+            "position": 479,
+            "system_micros": 1690317050470198,
+            "unixtime": 1690317050,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 643007919,
+            "flashtype": 2147483647,
+            "frame_number": 5117,
+            "height": 1504,
+            "position": 480,
+            "system_micros": 1690317050697293,
+            "unixtime": 1690317050,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 643236084,
+            "flashtype": 2147483647,
+            "frame_number": 5118,
+            "height": 1504,
+            "position": 480,
+            "system_micros": 1690317050925561,
+            "unixtime": 1690317050,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 643464260,
+            "flashtype": 2147483647,
+            "frame_number": 5119,
+            "height": 1504,
+            "position": 481,
+            "system_micros": 1690317051154465,
+            "unixtime": 1690317051,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 643692436,
+            "flashtype": 2147483647,
+            "frame_number": 5120,
+            "height": 1504,
+            "position": 482,
+            "system_micros": 1690317051382634,
+            "unixtime": 1690317051,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 643920601,
+            "flashtype": 2147483647,
+            "frame_number": 5121,
+            "height": 1504,
+            "position": 481,
+            "system_micros": 1690317051610381,
+            "unixtime": 1690317051,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 644148777,
+            "flashtype": 2147483647,
+            "frame_number": 5122,
+            "height": 1504,
+            "position": 482,
+            "system_micros": 1690317051838320,
+            "unixtime": 1690317051,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 644376942,
+            "flashtype": 2147483647,
+            "frame_number": 5123,
+            "height": 1504,
+            "position": 483,
+            "system_micros": 1690317052066228,
+            "unixtime": 1690317052,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 644605118,
+            "flashtype": 2147483647,
+            "frame_number": 5124,
+            "height": 1504,
+            "position": 484,
+            "system_micros": 1690317052295016,
+            "unixtime": 1690317052,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 644833295,
+            "flashtype": 2147483647,
+            "frame_number": 5125,
+            "height": 1504,
+            "position": 484,
+            "system_micros": 1690317052522662,
+            "unixtime": 1690317052,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 645061471,
+            "flashtype": 2147483647,
+            "frame_number": 5126,
+            "height": 1504,
+            "position": 485,
+            "system_micros": 1690317052750672,
+            "unixtime": 1690317052,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 645289636,
+            "flashtype": 2147483647,
+            "frame_number": 5127,
+            "height": 1504,
+            "position": 485,
+            "system_micros": 1690317052979823,
+            "unixtime": 1690317052,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 645517801,
+            "flashtype": 2147483647,
+            "frame_number": 5128,
+            "height": 1504,
+            "position": 486,
+            "system_micros": 1690317053207451,
+            "unixtime": 1690317053,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 645745977,
+            "flashtype": 2147483647,
+            "frame_number": 5129,
+            "height": 1504,
+            "position": 486,
+            "system_micros": 1690317053435460,
+            "unixtime": 1690317053,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 645974153,
+            "flashtype": 2147483647,
+            "frame_number": 5130,
+            "height": 1504,
+            "position": 487,
+            "system_micros": 1690317053664426,
+            "unixtime": 1690317053,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 646202318,
+            "flashtype": 2147483647,
+            "frame_number": 5131,
+            "height": 1504,
+            "position": 487,
+            "system_micros": 1690317053892344,
+            "unixtime": 1690317053,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 646430494,
+            "flashtype": 2147483647,
+            "frame_number": 5132,
+            "height": 1504,
+            "position": 484,
+            "system_micros": 1690317054121137,
+            "unixtime": 1690317054,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 646658670,
+            "flashtype": 2147483647,
+            "frame_number": 5133,
+            "height": 1504,
+            "position": 488,
+            "system_micros": 1690317054347887,
+            "unixtime": 1690317054,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 646886835,
+            "flashtype": 2147483647,
+            "frame_number": 5134,
+            "height": 1504,
+            "position": 489,
+            "system_micros": 1690317054575979,
+            "unixtime": 1690317054,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 647115011,
+            "flashtype": 2147483647,
+            "frame_number": 5135,
+            "height": 1504,
+            "position": 489,
+            "system_micros": 1690317054804606,
+            "unixtime": 1690317054,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 647343188,
+            "flashtype": 2147483647,
+            "frame_number": 5136,
+            "height": 1504,
+            "position": 490,
+            "system_micros": 1690317055032662,
+            "unixtime": 1690317055,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 647571353,
+            "flashtype": 2147483647,
+            "frame_number": 5137,
+            "height": 1504,
+            "position": 490,
+            "system_micros": 1690317055260759,
+            "unixtime": 1690317055,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 647799517,
+            "flashtype": 2147483647,
+            "frame_number": 5138,
+            "height": 1504,
+            "position": 491,
+            "system_micros": 1690317055489337,
+            "unixtime": 1690317055,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 648027694,
+            "flashtype": 2147483647,
+            "frame_number": 5139,
+            "height": 1504,
+            "position": 491,
+            "system_micros": 1690317055717157,
+            "unixtime": 1690317055,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 648255859,
+            "flashtype": 2147483647,
+            "frame_number": 5140,
+            "height": 1504,
+            "position": 491,
+            "system_micros": 1690317055945294,
+            "unixtime": 1690317055,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 648484035,
+            "flashtype": 2147483647,
+            "frame_number": 5141,
+            "height": 1504,
+            "position": 492,
+            "system_micros": 1690317056173289,
+            "unixtime": 1690317056,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 648712200,
+            "flashtype": 2147483647,
+            "frame_number": 5142,
+            "height": 1504,
+            "position": 494,
+            "system_micros": 1690317056401312,
+            "unixtime": 1690317056,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 648940376,
+            "flashtype": 2147483647,
+            "frame_number": 5143,
+            "height": 1504,
+            "position": 494,
+            "system_micros": 1690317056630372,
+            "unixtime": 1690317056,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 649168552,
+            "flashtype": 2147483647,
+            "frame_number": 5144,
+            "height": 1504,
+            "position": 494,
+            "system_micros": 1690317056858183,
+            "unixtime": 1690317056,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 649396717,
+            "flashtype": 2147483647,
+            "frame_number": 5145,
+            "height": 1504,
+            "position": 494,
+            "system_micros": 1690317057086113,
+            "unixtime": 1690317057,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 649624893,
+            "flashtype": 2147483647,
+            "frame_number": 5146,
+            "height": 1504,
+            "position": 495,
+            "system_micros": 1690317057315457,
+            "unixtime": 1690317057,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 649853058,
+            "flashtype": 2147483647,
+            "frame_number": 5147,
+            "height": 1504,
+            "position": 495,
+            "system_micros": 1690317057542436,
+            "unixtime": 1690317057,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 650081223,
+            "flashtype": 2147483647,
+            "frame_number": 5148,
+            "height": 1504,
+            "position": 494,
+            "system_micros": 1690317057770589,
+            "unixtime": 1690317057,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 650309399,
+            "flashtype": 2147483647,
+            "frame_number": 5149,
+            "height": 1504,
+            "position": 496,
+            "system_micros": 1690317057998733,
+            "unixtime": 1690317057,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 650537575,
+            "flashtype": 2147483647,
+            "frame_number": 5150,
+            "height": 1504,
+            "position": 495,
+            "system_micros": 1690317058226737,
+            "unixtime": 1690317058,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 650765740,
+            "flashtype": 2147483647,
+            "frame_number": 5151,
+            "height": 1504,
+            "position": 497,
+            "system_micros": 1690317058460840,
+            "unixtime": 1690317058,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 650993905,
+            "flashtype": 2147483647,
+            "frame_number": 5152,
+            "height": 1504,
+            "position": 498,
+            "system_micros": 1690317058683889,
+            "unixtime": 1690317058,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 651222070,
+            "flashtype": 2147483647,
+            "frame_number": 5153,
+            "height": 1504,
+            "position": 497,
+            "system_micros": 1690317058911688,
+            "unixtime": 1690317058,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 651450246,
+            "flashtype": 2147483647,
+            "frame_number": 5154,
+            "height": 1504,
+            "position": 498,
+            "system_micros": 1690317059139829,
+            "unixtime": 1690317059,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 651678411,
+            "flashtype": 2147483647,
+            "frame_number": 5155,
+            "height": 1504,
+            "position": 498,
+            "system_micros": 1690317059367627,
+            "unixtime": 1690317059,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 651906587,
+            "flashtype": 2147483647,
+            "frame_number": 5156,
+            "height": 1504,
+            "position": 498,
+            "system_micros": 1690317059596518,
+            "unixtime": 1690317059,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 652134752,
+            "flashtype": 2147483647,
+            "frame_number": 5157,
+            "height": 1504,
+            "position": 499,
+            "system_micros": 1690317059824392,
+            "unixtime": 1690317059,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 652362917,
+            "flashtype": 2147483647,
+            "frame_number": 5158,
+            "height": 1504,
+            "position": 499,
+            "system_micros": 1690317060051985,
+            "unixtime": 1690317060,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 652591094,
+            "flashtype": 2147483647,
+            "frame_number": 5159,
+            "height": 1504,
+            "position": 498,
+            "system_micros": 1690317060280305,
+            "unixtime": 1690317060,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 652819259,
+            "flashtype": 2147483647,
+            "frame_number": 5160,
+            "height": 1504,
+            "position": 499,
+            "system_micros": 1690317060508512,
+            "unixtime": 1690317060,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 653047423,
+            "flashtype": 2147483647,
+            "frame_number": 5161,
+            "height": 1504,
+            "position": 499,
+            "system_micros": 1690317060736717,
+            "unixtime": 1690317060,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 653275600,
+            "flashtype": 2147483647,
+            "frame_number": 5162,
+            "height": 1504,
+            "position": 502,
+            "system_micros": 1690317060965003,
+            "unixtime": 1690317060,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 653503765,
+            "flashtype": 2147483647,
+            "frame_number": 5163,
+            "height": 1504,
+            "position": 501,
+            "system_micros": 1690317061192621,
+            "unixtime": 1690317061,
+            "width": 1504
+        },
+        {
+            "camera_micros,": 653731930,
+            "flashtype": 2147483647,
+            "frame_number": 5164,
+            "height": 1504,
+            "position": 501,
+            "system_micros": 1690317061420897,
+            "unixtime": 1690317061,
+            "width": 1504
+        }
+    ]
+}
